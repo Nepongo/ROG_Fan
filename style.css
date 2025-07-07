@@ -1,0 +1,20 @@
+.logo-img {
+  height: 32px;
+}
+
+.shopee-icon {
+  height: 1.5em;
+}
+
+.table-red {
+  --bs-table-bg: #8b0000;
+  --bs-table-striped-bg: #a52a2a;
+  --bs-table-hover-bg: #b22222;
+  --bs-table-color: #fff;
+  color: white;
+  background-color: #8b0000;
+}
+
+.table-red th {
+  background-color: #dc3545 !important;
+}
